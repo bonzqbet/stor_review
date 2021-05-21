@@ -1,0 +1,122 @@
+.dis-block-30{
+    display: inline-block;
+    width: 30%;
+}
+
+.dis-block-5{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-left: 90%;
+    position: relative;
+    align-items: center;
+    background-image: url("https://img.icons8.com/cotton/2x/delete-sign--v2.png");
+}
+
+.font-12{
+    font-size: 12px;
+}
+
+.Remove{
+    display: none;
+}
+
+.DivbuttomBorder {
+    /* height: 37px; */
+    border-bottom: #c8c7cc solid 1px;
+    /*border-left:#c8c7cc solid 1px;*/
+    /*background-color:#f9f9f9;
+    padding-left:10px;*/
+    /* padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px; */
+}
+
+.p-3P{
+    padding: 1px;
+}
+
+
+header
+{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 25px;	
+}
+
+#info
+{
+	font-size: 18px;
+	color: #555;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+a{
+	color: #074E8C;
+}
+
+.scrollbar
+{
+	/* margin-left: 30px; */
+	float: left;
+	height: 300px;
+	width: 100%;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.force-overflow
+{
+	/* min-height: 450px; */
+}
+
+#wrapper
+{
+	text-align: center;
+	width: 500px;
+	margin: auto;
+}
+
+/*
+ *  STYLE 1
+ */
+
+#style-1::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-1::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+#style-1::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #555;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #2196F3; */
+    padding: 10px;
+  }
+  .grid-item {
+    margin-top: 5px;
+    width: 98%;
+    background-color: rgba(248, 148, 148, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
