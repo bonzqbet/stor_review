@@ -24,4 +24,4 @@ composer require laravel/ui
 	
 	4. User Normal สามารถเขียน review ได้ และลบได้เฉพาะแค่ review ตัวเอง
 	
-	5. มี Pagination ในส่วนของ List สินค้า และ review
+	5. มี Pagination ในส่วนของ List สินค้า และ review 
